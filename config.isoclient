@@ -1,0 +1,2 @@
+IMAGE='loop;Apolo_Linux.x86_64;0.1.9'
+UNIONFS_CONFIG='/dev/ram1,loop,overlay'
