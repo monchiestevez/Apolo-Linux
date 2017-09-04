@@ -1,4 +1,6 @@
 # Apolo-Linux
-Completaly anonimaty and security Linux OS (SESO Linux Distro)
+Completaly anonimaty and secure Linux OS (SESO Linux Distro)
 
 discontinued until atlas finished
+
+link iso here :P
